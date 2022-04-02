@@ -1,2 +1,2 @@
+chmod --- o=rwx hello
 #!/bin/bash
-chmod ---o=rwx hello
