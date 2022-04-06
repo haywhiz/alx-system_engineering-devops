@@ -1,2 +1,2 @@
 #!/bin/bash
-$((2#10BINARY))
+$(([2#10]BINARY))
